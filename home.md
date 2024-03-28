@@ -1,3 +1,10 @@
+---
+title: My Awesome Page
+layout: home
+permalink: /
+---
+
+
 # My Personal Website
 
 ## About Me
