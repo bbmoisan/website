@@ -3,8 +3,54 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    ---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #228B22; /* Forest green */
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            color: white;
+        }
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .links {
+            font-size: 16px;
+        }
+        .links a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="links">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
   </head>
   <body>
+    <title>{{ page.title }}</title>
+    
     {{ content }}
   </body>
 </html>
