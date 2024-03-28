@@ -1,11 +1,8 @@
 ---
-title: My Awesome Page
+title:Home
 layout: home
 permalink: /
 ---
-
-
-# My Personal Website
 
 ## About Me
 - Brief introduction about yourself.
