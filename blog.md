@@ -14,7 +14,7 @@ I'm a [Your Profession] based in [Your Location]. I love [Your Interests].
 ## Recent Posts
 
 {% for post in site.posts limit:5 %}
-- [[{{ post.title }}]]
+- [{{ post.title }}]({{ post.link }})
 {% endfor %}
 
 ## Contact Me
