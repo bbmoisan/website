@@ -23,7 +23,7 @@ permalink: /
 - Upload your resume as a PDF or provide a link to an online version.
 - Consider creating a dedicated "Resume" page.
 
-:+1:
+
 
 ## Footer
 - Include copyright information and any other relevant details.
