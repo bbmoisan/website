@@ -1,3 +1,4 @@
 plugins:
   - jemoji
   - jekyll-readme-index
+  - jekyll-feed
