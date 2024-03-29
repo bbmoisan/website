@@ -1,4 +1,5 @@
 plugins:
   - jemoji
   - jekyll-feed
+  - jekyll-spaceship
   - jekyll-sitemap
