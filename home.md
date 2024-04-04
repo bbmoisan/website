@@ -15,9 +15,8 @@ permalink: /
 
 ## Contact Information
 - Provide ways for visitors to reach you:
-  - Email: your@email.com
   - LinkedIn: Your Name
-  - Twitter: @YourTwitterHandle
+  - Threads/Instagram: @BB.Moisan
 
 ## Resume
 - Upload your resume as a PDF or provide a link to an online version.
